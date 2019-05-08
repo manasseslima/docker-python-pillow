@@ -1,3 +1,3 @@
 FROM python:alpine
 
-RUN apk add build-base python3-dev libjpeg-dev jpeg-dev zlib-dev
+RUN apk add jpeg-dev zlib-dev freetype-dev lcms2-dev openjpeg-dev tiff-dev tk-dev tcl-dev
