@@ -1,3 +1,3 @@
-# docker-python-pillow
+# docker-python-z
 
-It's strange but someone needed it, me. =)
+A python:alpine with zlib package. It's strange but someone needed it, me. =)
