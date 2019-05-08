@@ -1,3 +1,3 @@
 # docker-python-pillow
 
-It's strange but someone need it, me. =)
+It's strange but someone needed it, me. =)
