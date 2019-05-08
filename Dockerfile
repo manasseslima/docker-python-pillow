@@ -1,5 +1,3 @@
-FROM python:3.7
+FROM python:alpine
 
-RUN apt install libjpeg-dev zlib1g-dev
-
-RUN pip install --no-cache-dir Pillow
+RUN apk —-no-cached add py3-pillow git
